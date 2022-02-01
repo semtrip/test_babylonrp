@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#box {
+    width: -webkit-fill-available;
+    height: -webkit-fill-available;
+    display: flex;
+    position: absolute;
+}
